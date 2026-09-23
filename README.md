@@ -1,4 +1,4 @@
-# Prompt 7 Runtime Constants and Drift Guard
+# Runtime Constants and Drift Guard
 
 This step adds two safety nets around the generated OpenAPI contract in
 `packages/contract`:
